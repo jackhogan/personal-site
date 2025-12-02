@@ -1,0 +1,11 @@
+[project]
+name = "personal-site"
+version = "0.1.0"
+description = "Code for my personal website: jackhogan.net"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "monsterui>=1.0.32",
+    "python-fasthtml>=0.12.35",
+    "python-frontmatter>=1.1.0",
+]

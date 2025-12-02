@@ -4,7 +4,7 @@ updated: 2025-11-27
 
 # Now
 
-> This is a "Now page"—it details what I'm focused on **right now**, at this point in my life. For more details, see [https://nownownow.com/about](https://nownownow.com/about)
+> This is a ["Now page"](https://nownownow.com/about)—it details what I'm focused on **right now**, at this point in my life.
 
 I recently left my role at Agemo after an amazing couple of years. I learned so much, had the freedom to work on cool projects and the resources to train LLMs and experiment with the latest techniques, but with so much happening in AI right now, I started to get an itch to try something new.
 

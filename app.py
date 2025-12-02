@@ -152,7 +152,7 @@ def intro():
             P("This website is both an excuse to teach myself web development and part of an effort to write more, as a way of solidifying and sharing my thoughts about the topics that interest me. It will most likely cover machine learning, software engineering, startups and entrepreneurship; we'll see what else."),
             P("To learn more about me, check out my ", hx_link("About", about), " page. ",
             "See my latest blog posts below or find the full list on my ", hx_link("Blog", blog), " page. ",
-            "Or to find out what I'm up to ", Em("right now"), ", check out my ", hx_link("Now", now), " page."),
+            "Or to find out what I'm up to currently, check out my ", hx_link("Now", now), " page."),
         )
     )
 

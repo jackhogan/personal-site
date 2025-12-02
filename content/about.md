@@ -4,7 +4,7 @@ I'm an AI Researcher from Cork, Ireland, based in London, UK. My background is i
 
 ## Work
 
-Following my PhD, I joined [Agemo](https://www.agemo.ai) as founding AI Research Scientist. My work there covered research, model training and applied engineering. I led LLM training initiatives, building synthetic data generation pipelines, designing evaluation suites, and scaling SFT and RLHF experiments all the way from LoRA fine-tuning on local hardware to distributed training across 64x H100 GPU clusters. I spearheaded a research project on the ARC-AGI challenge, developing a multi-stage pipeline that successfully generated solutions to 85% of training tasks using Claude. This work caught the attention of François Chollet, who joined as scientific advisor after we open-sourced our approach. I was also responsible for agent design for Agemo's core product, CodeWords, a platform for automated software generation. I worked on tool design, architecture, orchestration, context engineering, tracing and evals.
+Following my PhD, I joined [Agemo](https://www.agemo.ai) as founding AI Research Scientist. My work there covered research, model training and applied engineering. I led LLM training initiatives, building synthetic data generation pipelines, designing evaluation suites, and scaling SFT and RLHF experiments all the way from LoRA fine-tuning on local hardware to distributed training across 64x H100 GPU clusters. I spearheaded a research project on the ARC-AGI challenge, developing a multi-stage pipeline that successfully generated solutions to 85% of training tasks using Claude. This work caught the attention of François Chollet, who joined as scientific advisor after we open-sourced our approach. I was also responsible for agent design in Agemo's core product, CodeWords, a platform for automated software generation. I worked on tool design, architecture, orchestration, context engineering, tracing and evals.
 
 ## Outside Work
 
@@ -12,7 +12,7 @@ Outside of work, I generally try to be on the water. I grew up sailing and, whil
 
 ## About this Site
 
-This website is built with [FastHTML](https://www.fastht.ml/), a Python web framework for fast, scalable web applications with minimal, compact code. With zero prior web development experience and total confusion about the various modern web frameworks, I was inspired to build it after reading the book [Hypermedia Systems](https://hypermedia.systems/), which describes a simpler approach to web development based on the fundamental ideas and technologies that empowered the early web. You can view the full source code for this site on [GitHub](https://github.com/jackhogan/personal-site).
+This website is built with [FastHTML](https://www.fastht.ml/), a Python web framework for fast, scalable web applications with minimal, compact code. With zero prior web development experience and total confusion about the various modern web frameworks, I was inspired to build it after reading the book [Hypermedia Systems](https://hypermedia.systems/). It describes a simpler approach to web development based on the fundamental ideas and technologies that empowered the early web. You can view the full source code for this site on [GitHub](https://github.com/jackhogan/personal-site).
 
 ---
 
